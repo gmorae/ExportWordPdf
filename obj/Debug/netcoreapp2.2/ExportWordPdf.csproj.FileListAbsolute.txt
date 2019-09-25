@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\ExportWordPdf\bin\Debug\netcoreapp2.2\ExportWordPdf.deps.json
+C:\Users\fic\Desktop\ExportWordPdf\bin\Debug\netcoreapp2.2\ExportWordPdf.runtimeconfig.json
+C:\Users\fic\Desktop\ExportWordPdf\bin\Debug\netcoreapp2.2\ExportWordPdf.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ExportWordPdf\bin\Debug\netcoreapp2.2\ExportWordPdf.dll
+C:\Users\fic\Desktop\ExportWordPdf\bin\Debug\netcoreapp2.2\ExportWordPdf.pdb
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.dll
+C:\Users\fic\Desktop\ExportWordPdf\obj\Debug\netcoreapp2.2\ExportWordPdf.pdb
